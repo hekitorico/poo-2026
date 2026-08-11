@@ -1,0 +1,1 @@
+# Meu nome é Heitor Henrique dos Anjos e estou estudando Ciência da Computação no IFGoiano de Iporá, e meu interesse em tecnologia apareceu desde pequeno com videogames e a partir desse ele se expandiu para a área de programação.
