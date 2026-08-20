@@ -35,11 +35,10 @@ if __name__ == '__main__':
     heroi = Personagem("Batman", 100, 20)
     chefe = Personagem("Coringa", 150, 25)
 
-    print("=== ANTES DA BATALHA ===")
+
     heroi.ficha()
     chefe.ficha()
 
-    print("=== BATALHA ===")
 
     while heroi.estaVivo() and chefe.estaVivo():
         heroi.atacar(chefe)
@@ -49,7 +48,6 @@ if __name__ == '__main__':
 
         print()
 
-    print("=== DEPOIS DA BATALHA ===")
     heroi.ficha()
     chefe.ficha()
 
